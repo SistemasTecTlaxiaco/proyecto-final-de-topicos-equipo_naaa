@@ -13,5 +13,11 @@
     <Compile Update="Form4.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Perzonalizar_Boton\BotonPersonalizado.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Perzonalizar_Panel\Component1.cs">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
