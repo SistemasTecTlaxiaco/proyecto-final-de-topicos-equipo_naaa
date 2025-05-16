@@ -1,6 +1,6 @@
 ﻿namespace AGENDA_PROYECTOFINAL
 {
-    partial class Form3
+    partial class FormUSUARIO
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form3";
+            SuspendLayout();
+            // 
+            // FormUSUARIO
+            // 
+            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1478, 1044);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            Name = "FormUSUARIO";
+            Text = "CREAR USUARIO";
+            ResumeLayout(false);
         }
 
         #endregion
