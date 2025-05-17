@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace AGENDA_PROYECTOFINAL
 {
-    public partial class FormUSUARIO: Form
+    public partial class CrearUsuario : Form
     {
-        public FormUSUARIO()
+        public CrearUsuario()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

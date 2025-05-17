@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lopez\\OneDrive\\Escritorio\\PROYECTOS VISUAL STUDIO\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj": {}
+    "D:\\CLASES ACTUALES 🥴\\4 SEMESTRE\\Topicos avanzados de çprogramacion\\tema 4\\proyectoFinal\\proyecto-final-de-topicos-equipo_naaa\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lopez\\OneDrive\\Escritorio\\PROYECTOS VISUAL STUDIO\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj": {
+    "D:\\CLASES ACTUALES 🥴\\4 SEMESTRE\\Topicos avanzados de çprogramacion\\tema 4\\proyectoFinal\\proyecto-final-de-topicos-equipo_naaa\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lopez\\OneDrive\\Escritorio\\PROYECTOS VISUAL STUDIO\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj",
+        "projectUniqueName": "D:\\CLASES ACTUALES 🥴\\4 SEMESTRE\\Topicos avanzados de çprogramacion\\tema 4\\proyectoFinal\\proyecto-final-de-topicos-equipo_naaa\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj",
         "projectName": "AGENDA_PROYECTOFINAL",
-        "projectPath": "C:\\Users\\lopez\\OneDrive\\Escritorio\\PROYECTOS VISUAL STUDIO\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj",
-        "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lopez\\OneDrive\\Escritorio\\PROYECTOS VISUAL STUDIO\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL\\obj\\",
+        "projectPath": "D:\\CLASES ACTUALES 🥴\\4 SEMESTRE\\Topicos avanzados de çprogramacion\\tema 4\\proyectoFinal\\proyecto-final-de-topicos-equipo_naaa\\AGENDA_PROYECTOFINAL\\AGENDA_PROYECTOFINAL.csproj",
+        "packagesPath": "C:\\Users\\sahid\\.nuget\\packages\\",
+        "outputPath": "D:\\CLASES ACTUALES 🥴\\4 SEMESTRE\\Topicos avanzados de çprogramacion\\tema 4\\proyectoFinal\\proyecto-final-de-topicos-equipo_naaa\\AGENDA_PROYECTOFINAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -69,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

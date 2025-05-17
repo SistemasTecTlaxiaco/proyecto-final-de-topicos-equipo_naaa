@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("AGENDA_PROYECTOFINAL")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8caf54ba7a3738e4a5795cd6ebf66d5ff6a0f1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AGENDA_PROYECTOFINAL")]

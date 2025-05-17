@@ -19,5 +19,8 @@
     <Compile Update="Perzonalizar_Panel\Component1.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Update="Perzonalizar_TexBox\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
