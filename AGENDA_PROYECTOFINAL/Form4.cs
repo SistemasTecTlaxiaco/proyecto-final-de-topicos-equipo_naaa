@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace AGENDA_PROYECTOFINAL
 {
-    public partial class FormCONTRASEÑA: Form
+    public partial class FormCONTRASEÑA : Form
     {
         public FormCONTRASEÑA()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
