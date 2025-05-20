@@ -32,13 +32,15 @@
             // 
             // FormINICIO
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1478, 1044);
+            ClientSize = new Size(1182, 835);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Margin = new Padding(2, 2, 2, 2);
             MaximizeBox = false;
             Name = "FormINICIO";
             Text = "INICIO AGENDA";
+            Load += FormINICIO_Load;
             ResumeLayout(false);
         }
 

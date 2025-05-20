@@ -181,6 +181,7 @@
             MaximizeBox = false;
             Name = "CrearUsuario";
             Text = "CREAR USUARIO";
+            Load += CrearUsuario_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

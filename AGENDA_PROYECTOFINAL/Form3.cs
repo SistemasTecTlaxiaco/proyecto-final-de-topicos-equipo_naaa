@@ -31,5 +31,10 @@ namespace AGENDA_PROYECTOFINAL
         {
 
         }
+
+        private void CrearUsuario_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

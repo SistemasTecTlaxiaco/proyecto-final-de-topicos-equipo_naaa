@@ -21,5 +21,10 @@ namespace AGENDA_PROYECTOFINAL
         {
 
         }
+
+        private void FormCONTRASEÑA_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
