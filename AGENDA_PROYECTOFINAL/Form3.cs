@@ -26,5 +26,10 @@ namespace AGENDA_PROYECTOFINAL
         {
 
         }
+
+        private void btnSesion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
