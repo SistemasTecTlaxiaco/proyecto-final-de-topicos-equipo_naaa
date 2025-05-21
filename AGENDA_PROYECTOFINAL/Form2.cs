@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace AGENDA_PROYECTOFINAL
 {
-    public partial class FormINICIO : Form
+    public partial class Form2: Form
     {
-        public FormINICIO()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void FormINICIO_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

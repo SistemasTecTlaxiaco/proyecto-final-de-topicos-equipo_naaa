@@ -36,3 +36,7 @@ C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\SPRIN
 C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\SPRINT 4\clon3\proyecto-final-de-topicos-equipo_naaa\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\AGENDA_PROYECTOFINAL.pdb
 C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\SPRINT 4\clon3\proyecto-final-de-topicos-equipo_naaa\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\AGENDA_PROYECTOFINAL.genruntimeconfig.cache
 C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\SPRINT 4\clon3\proyecto-final-de-topicos-equipo_naaa\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\ref\AGENDA_PROYECTOFINAL.dll
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\AGENDA_PROYECTOFINAL\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\AGENDA_PROYECTOFINAL.FormINICIO.resources
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\AGENDA_PROYECTOFINAL\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\AGENDA_PROYECTOFINAL.CrearUsuario.resources
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\AGENDA_PROYECTOFINAL\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\AGENDA_PROYECTOFINAL.FormCONTRASEÑA.resources
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\AGENDA_PROYECTOFINAL\AGENDA_PROYECTOFINAL\obj\Debug\net8.0-windows\AGENDA_PROYECTOFINAL.Properties.Resources.resources
