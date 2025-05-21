@@ -34,6 +34,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(0, 120, 114);
             ClientSize = new Size(1478, 1044);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
